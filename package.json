@@ -1,0 +1,14 @@
+{
+  "name": "train-booking-monorepo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix Frontend run dev",
+    "build": "npm --prefix Frontend run build",
+    "test:supabase": "node scripts/test-supabase.js"
+  },
+  "dependencies": {
+    "@supabase/server": "^1.9.0",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2"
+  }
+}

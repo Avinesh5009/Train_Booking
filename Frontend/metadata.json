@@ -1,0 +1,6 @@
+{
+  "name": "RailExpress - Railway Ticket Booking",
+  "description": "Fast, seamless railway ticket booking platform with interactive seat selection, live train schedules, PNR tracking, and instant e-ticket generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

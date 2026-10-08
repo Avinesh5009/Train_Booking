@@ -1,0 +1,2 @@
+package com.railticket.entity;
+public enum TrainType { VANDE_BHARAT, RAJDHANI_EXPRESS, SHATABDI_EXPRESS, SUPERFAST_EXPRESS, MAIL_EXPRESS }
